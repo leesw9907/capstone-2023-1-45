@@ -5,6 +5,7 @@ STM32-Pest_Alert 시스템을 통해 블루투스 모듈이 보낸 신호를
 ## Tested Devices
  - Galaxy S20+
  - Galaxy  Note8
+   
 ![image](https://github.com/LeeSonShin/Pest_Alert_Application/assets/118882978/d5c9f5ec-2666-4c91-adff-bff768842598)
 
 ## Refernce
